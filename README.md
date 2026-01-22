@@ -2,7 +2,7 @@
 
 ## 🌐 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Visit%20Web%20App-Affin%20Academy-4ade80?style=for-the-badge&logo=vercel&logoColor=white)](https://afrin-academy.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Visit%20Web%20App-Affin%20Academy-4ade80?style=for-the-badge&logo=vercel&logoColor=white)](https://afrin-academy-demo.vercel.app)
 
 ## 🔗 Social Links
 
