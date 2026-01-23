@@ -30,6 +30,13 @@ Afrin Academy is a modern web platform designed to streamline communication betw
 
 ## 🚀 Features
 
+### Login
+
+![Login](./assets/login1.png)
+![Login](./assets/login2.png)
+#### Note this what you will get of the demo production version!
+![Note this what you will get of the demo production version!](./assets/demo.png)
+
 ### 🎓 Student Access
 - Each student receives a unique card with a **QR code**.
 - QR code enables secure login to the student dashboard.
