@@ -2,6 +2,7 @@ import { ArrowPathIcon } from '@heroicons/react/24/outline';
 import clsx from 'clsx';
 import Image from 'next/image';
 import { fetchLatestStudents } from '@/app/lib/data';
+import { late } from 'zod';
 
 export default async function LatestStudents() {
   const latestStudents = await fetchLatestStudents();
